@@ -21,7 +21,7 @@ using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
-// Test the deployment again
+// Test the deployment
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
 
